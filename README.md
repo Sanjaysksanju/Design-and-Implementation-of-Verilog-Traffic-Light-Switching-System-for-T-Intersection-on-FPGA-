@@ -34,19 +34,29 @@ The project utilizes Verilog HDL to design and simulate the traffic light contro
 - Designing the FSM to control traffic light phases (TMG, TY, TTG, TSG).
 - Implementing time delays between state transitions to manage traffic flow.
 - Synthesizing and simulating the Verilog code using Xilinx ISE 14.7.
+- ![image](https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/b69e48b2-c5d4-4596-9e00-baa36136411d)
+- ![image](https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/ef7152a1-ec7e-41a6-b16c-1c9814955ac4)
+
+
 
 ## Implementation
 
 - **Verilog Code:** Contains the source code (`traffic_light_controller.v`) for the traffic light switching system.
 - **Simulation:** Includes simulation files and waveforms (`simulation_results/`) demonstrating proper FSM operation.
 - **FPGA Implementation:** Details for deploying the system on a Spartan-6 FPGA board (`fpga_implementation/`).
+- ![image](https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/32cb003b-9317-48d5-9a70-a77f261a7e4f)
+
 
 ## Results
 
 - Simulation waveforms confirm accurate state transitions as defined by the FSM.
 - Power consumption analysis shows a significant reduction compared to traditional traffic light systems.
 - Area utilization and delay analysis demonstrate efficient FPGA resource management.
-
+- ![image](https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/fc1aedc8-5cd9-4eb6-896e-e5dc8d5954cd)
+- ![image](https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/df171abd-6314-4b93-bb70-1de6f26ec2f9)
+- ![image](https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/e8482413-dfa5-4145-aec8-de7b500c9a74)
+- ![image](https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/b162650e-0fe8-485a-b58b-4448179c9f10)
+- ![image](https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/b914c193-e036-4804-8d86-c95da2d61492)
 ## Conclusion and Future Scope
 
 The Verilog-based Traffic Light Switching System presents an efficient solution for T-Intersection traffic management. Future enhancements could include:
@@ -96,14 +106,12 @@ The Verilog-based Traffic Light Switching System presents an efficient solution 
 - Test FPGA deployment on Spartan-6 board for functional validation.
 
 ## Contributors
-
+- Sanjay S K (aksha9538@gmail.com)
 - Manjula B B (manjulabb@gmail.com)
 - Pushkar D (pushkardwarkanath@gmail.com)
 - Manasa S (mansu9102@gmail.com)
 - Agniva Ghosh (ghoshagniva52@gmail.com)
 - Gowtham S (gowthamgo2002@gmail.com)
-- Sanjay S K (aksha9538@gmail.com)
-
 ## References
 
 - [ICRASET Conference Paper](docs/ICRASET_paper.pdf)
