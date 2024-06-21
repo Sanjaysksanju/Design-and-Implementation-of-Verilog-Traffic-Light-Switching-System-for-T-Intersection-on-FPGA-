@@ -23,11 +23,18 @@ This project implements a Verilog-based traffic light controller designed for a 
    - Traffic light timings and sequences are carefully defined to optimize traffic flow and ensure safety.
 
 3. **Screenshots/Images**
-   - ![Traffic Light Controller State Diagram](images/state_diagram.png)![image](https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/5650cc4a-1f5c-4c96-9d20-129aede02e4d)
+   - Traffic Light Controller State Diagram
+   - (https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/5650cc4a-1f5c-4c96-9d20-129aede02e4d)
 
-     - State diagram illustrating the traffic light controller's operation.
-   - ![FPGA Implementation](images/fpga_setup.jpg)
+   
      - Image depicting the Verilog traffic light controller implemented on an FPGA board.
+![image](https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/e5fc7f91-536f-444d-9e44-b17bbae396cc)
+
+![image](https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/b171d109-d856-4c84-b372-6c7cc6d4f768)
+
+![image](https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/1fbd0fa7-f7bd-4a82-b241-acc6fb2fe553)
+
+
 
 4. **Getting Started**
    - **Prerequisites**
