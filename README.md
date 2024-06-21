@@ -1,6 +1,3 @@
-Certainly! Here's a README file based on your Verilog traffic light controller code:
-
----
 
 # Verilog Traffic Light Controller for T-Intersection on FPGA
 
@@ -24,17 +21,12 @@ This project implements a Verilog-based traffic light controller designed for a 
 
 3. **Screenshots/Images**
    - Traffic Light Controller State Diagram
-   - (https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/5650cc4a-1f5c-4c96-9d20-129aede02e4d)
-
-   
-     - Image depicting the Verilog traffic light controller implemented on an FPGA board.
+   - Image depicting the Verilog traffic light controller implemented on an FPGA board.
 ![image](https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/e5fc7f91-536f-444d-9e44-b17bbae396cc)
 
 ![image](https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/b171d109-d856-4c84-b372-6c7cc6d4f768)
 
 ![image](https://github.com/Sanjaysksanju/Design-and-Implementation-of-Verilog-Traffic-Light-Switching-System-for-T-Intersection-on-FPGA-/assets/133668271/1fbd0fa7-f7bd-4a82-b241-acc6fb2fe553)
-
-
 
 4. **Getting Started**
    - **Prerequisites**
@@ -42,21 +34,8 @@ This project implements a Verilog-based traffic light controller designed for a 
    - **Usage**
      - Simulate `TF_design.v` using your Verilog simulator to observe the traffic light controller's behavior.
 
-5. **Contributing**
-   - Contributions are welcome. Fork the repository, make improvements, and submit a pull request for review.
 
-6. **Authors**
-   - [Sanjay S K] - Initial work
 
-7. **License**
-   - This project is licensed under the MIT License. See the LICENSE file for details.
-
-8. **Acknowledgments**
-   - Acknowledge any resources, tools, or individuals who contributed to the project.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
