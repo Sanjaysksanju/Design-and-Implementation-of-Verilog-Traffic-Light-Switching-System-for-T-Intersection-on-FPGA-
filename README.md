@@ -116,6 +116,6 @@ The Verilog-based Traffic Light Switching System presents an efficient solution 
 
 - [ICRASET Conference Paper](docs/ICRASET_paper.pdf)
 - Additional references cited in the paper.
-## paper publishes in IEEE 
+## paper published in IEEE 
 [https://ieeexplore.ieee.org/document/10420158](https://ieeexplore.ieee.org/document/10420158)
 
